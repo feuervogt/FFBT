@@ -2,7 +2,7 @@
 
 **ForgeFactor: BattleTactics** ist eine strategische App für Tabletop-Spieler, die als Kombination aus einem **Army Builder** und einem **Effektivitäts- und Siegwahrscheinlichkeits-Analysetool** dient. Mit dieser App kannst du Armeen für Tabletop-Spiele effizient zusammenstellen und ihre Kampfkraft in verschiedenen Szenarien simulieren. Die App befindet sich in einer sehr frühen Entwicklungsphase. Änderungen und Anpassungen auch der Idee sind in dieser Phase normal. Grundsätzlich ist jeder herzlich eingeladen, seine Ideen, Vorschläge und Hilfe einzubringen. 
 
-## Diese Datei wird während der Anfansgphase laufend angepasst.
+# Diese Datei wird während der Anfangsphase laufend angepasst.
 
 ## Features
 
